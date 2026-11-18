@@ -10,3 +10,8 @@ p {
     color: green;
     background-color: aliceblue;
 }
+
+img {
+    display: flex;
+    margin: auto;
+}
